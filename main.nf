@@ -1,4 +1,4 @@
-process main {
+process first {
   """
   echo 'hello world'
   """
