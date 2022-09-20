@@ -1,6 +1,6 @@
 nextflow.enable.dsl=2
 
-process first {
+process step_1 {
   """
   echo 'hello world'
   """
