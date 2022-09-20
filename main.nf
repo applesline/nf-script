@@ -5,3 +5,7 @@ process step_1 {
   echo 'hello world'
   """
 }
+
+workflow {
+  step_1()
+}
